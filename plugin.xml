@@ -36,7 +36,13 @@
             <array>
                 <string>twitter</string>
                 <string>whatsapp</string>
-                <string>fb</string>
+                <string>ndr2</string>
+                <string>njoyradio</string>
+                <string>ndrkultur</string>
+                <string>ndrnds</string>
+                <string>ndrhh</string>
+                <string>ndrsh</string>
+                <string>ndrmv</string>
             </array>
         </config-file>
 
